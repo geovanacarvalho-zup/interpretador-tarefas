@@ -22,3 +22,20 @@ pip install -r requirements.txt
 1. Acesse o portal da **StackSpot AI** e faça login na sua conta.
 2. **Credenciais da Conta:** No menu do seu perfil (ou na aba **Integração de API** de qualquer agente), gere uma **Credencial de Serviço** e copie seu `Client ID` e `Client Key`.
 3. **Agente (`Agent Slug`):** Utilize o slug de um agente já existente na sua conta (desde que não possua instruções conflitantes) ou crie um agente novo sem *Knowledge Sources* restritivos e copie o ID dele na aba **Integração de API**.
+
+
+
+4. Executar a aplicação
+
+Com o ambiente virtual ativo, rode:
+
+python main.py
+
+
+Comandos disponíveis no terminal:
+
+Texto livre: Descreva uma ou mais tarefas em linguagem natural (ex: "Terminar relatório até sexta, urgente, 2 horas").
+
+listar: Exibe todas as tarefas salvas no SQLite e seus arquivos .json.
+
+sair
