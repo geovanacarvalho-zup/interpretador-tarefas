@@ -3,8 +3,8 @@
 Aplicação de terminal (CLI) em Python que transforma frases em linguagem natural em tarefas estruturadas usando a **StackSpot AI**, valida os dados com **Pydantic** e salva localmente em **JSON** e **SQLite**.
 
 ---
-
-## 🚀 1. Criar o ambiente virtual e instalar as dependências
+## Como usar:
+## 🚀 1. Criar o ambiente virtual na sua maquina e instalar as dependências
 
 No terminal, dentro da pasta do projeto, execute:
 
