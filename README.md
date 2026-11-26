@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 ---
 
-## ⚙️ 3. Configurar o arquivo `.env`
+## ⚙️ 3. Configurar o seu arquivo `.env`
 
 Na raiz do projeto, crie um arquivo chamado `.env` (baseado no `.env.example`) e preencha com os seus dados:
 
